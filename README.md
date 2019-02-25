@@ -1,9 +1,9 @@
 # Modul 1
 Radio Color
-![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112521.png?raw=true)
+![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112521.png?raw=true "Saya Muhammad Alfian")
 ![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112529.png?raw=true)
 
-Modul6(Multiwindow)
+Modul6 (Multiwindow)
 ![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112427.png?raw=true)
 ![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112432.png?raw=true)
 ![alt text](https://github.com/Alfian29/Modul-1-Lanjutan/blob/master/Screenshot_20190225-112454.png?raw=true)
